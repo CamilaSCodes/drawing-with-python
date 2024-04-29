@@ -13,6 +13,14 @@ This project is a part of the curriculum for the university course on Computer G
 * **Mathematical and Representation Universes:** The GeoGebra application was utilized for visualizing and defining the mathematical aspects, and for representing the model visually.
 * **Implementation Universe**: The implementation was carried out using the Open Source Computer Vision and Matplotlib libraries within the Python environment.
 
+<div align="center">
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)
+![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge)
+
+</div>
+
 ### Objects
 
 The 2D objects modeled, sequentially, include a cloud, a person, a house, and a landscape.
